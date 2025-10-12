@@ -1,6 +1,6 @@
 # slamAI-istanbulCanyon
 
-![screenshot](images\slamAI-istanbulCanyon.png)
+![screenshot](images/slamAI-istanbulCanyon.png)
 
 <div align="center">
 
